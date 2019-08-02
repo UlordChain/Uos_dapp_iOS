@@ -1,0 +1,91 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - Canvas (0.1.2)
+  - CoreBitcoin (0.6.8.1):
+    - ISO8601DateFormatter
+    - OpenSSL-Universal (= 1.0.1.16)
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - ISO8601DateFormatter (0.8)
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.1.0)
+  - MJExtension (3.0.15.1)
+  - MJRefresh (3.1.15.7)
+  - OpenSSL-Universal (1.0.1.16)
+  - ReactiveObjC (3.1.0)
+  - SAMKeychain (1.5.3)
+  - SDWebImage (4.4.6):
+    - SDWebImage/Core (= 4.4.6)
+  - SDWebImage/Core (4.4.6)
+  - SGQRCode (3.0.1)
+  - XMNetworking (1.1.0):
+    - AFNetworking (~> 3.0)
+
+DEPENDENCIES:
+  - AFNetworking
+  - Canvas
+  - CoreBitcoin
+  - FMDB
+  - Masonry
+  - MBProgressHUD
+  - MJExtension
+  - MJRefresh
+  - ReactiveObjC
+  - SAMKeychain
+  - SDWebImage
+  - SGQRCode
+  - XMNetworking (~> 1.1.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - Canvas
+    - CoreBitcoin
+    - FMDB
+    - ISO8601DateFormatter
+    - Masonry
+    - MBProgressHUD
+    - MJExtension
+    - MJRefresh
+    - OpenSSL-Universal
+    - ReactiveObjC
+    - SAMKeychain
+    - SDWebImage
+    - SGQRCode
+    - XMNetworking
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  Canvas: eb861e3b555d032648146c8ffda1a5dea40059ca
+  CoreBitcoin: 4ac6f6a61e543f08399c2fe57496d4fdcbaf74f9
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  ISO8601DateFormatter: 4551b6ce4f83185425f583b0b3feb3c7b59b942c
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  MJExtension: 19bc33ce2eee2d319760f5622562cf581a6ff756
+  MJRefresh: 697f8ec75ebdbe9207767bb682cf0f51b0d8a41f
+  OpenSSL-Universal: 85ef63bf81d0741b03c8719cd29685c37c59518d
+  ReactiveObjC: 2a38ea15335de4119d8b17caf1db1484f61db902
+  SAMKeychain: 483e1c9f32984d50ca961e26818a534283b4cd5c
+  SDWebImage: 3f3f0c02f09798048c47a5ed0a13f17b063572d8
+  SGQRCode: bf02d60e18d6660a9d75ff1c8b9b467f064f054e
+  XMNetworking: 7160cc06f504f325eec515a1e687ee1aa89bc462
+
+PODFILE CHECKSUM: 5e3a484fec908cdf5f58900acf4e1e452f15e97b
+
+COCOAPODS: 1.6.0
